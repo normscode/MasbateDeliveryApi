@@ -9,7 +9,7 @@ Built as a learning/personal project to practice **C#/.NET Web API**, clean stru
 
 - **.NET / ASP.NET Core Web API**
 - **Entity Framework Core** (if your `Data/` folder contains DbContext + migrations)
-- **SQL Server / LocalDB** (or whatever DB you configured)
+- **SQL Server / LocalDB** 
 - Swagger / OpenAPI (typical for ASP.NET Web API)
 
 ---
